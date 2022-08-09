@@ -16,20 +16,19 @@ News API API key You will need to sign up for a free API key from News API (http
 
 3. Install the newsapi module which is a dependency for this to work. pip install newsapi-python.
 
-4. Add your News API key to this line newsapi = NewsApiClient(api_key='NEWSAPI_API_KEY') to the views.py file which is located in the newsapp- django>financialnewsapp>views.py folder.
+4. Add your News API key to this line newsapi = `NewsApiClient(api_key='NEWSAPI_API_KEY')` to the views.py file which is located in the newsapp- django>financialnewsapp>views.py folder.
 
-5. Run the django application, by using this command python manage.py runserver.
+5. Run the django application, by using this command python `manage.py runserver`.
 
 6. Open this link in your preferred web browser (http://127.0.0.1:8000/).
 
 ## Bash commands for you to download and run this:
 To install this example Django application, run the following commands in your preferred Terminal, Powershell or Git Bash:
 
-'''
 
-git clone https://github.com/hicham147/NewsApp.git
+`git clone` https://github.com/hicham147/NewsApp.git
 
-'''
+
 cd newsapp-django
 pip install NewsApp
 run `python manage.py runserver`
