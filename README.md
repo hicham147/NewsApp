@@ -34,3 +34,6 @@ pip install NewsApp
 run `python manage.py runserver`
 
 #### Open this link in your preferred web browser (http://127.0.0.1:8000/)
+
+![Web capture_9-8-2022_165347_127 0 0 1](https://user-images.githubusercontent.com/100999539/183682486-3ebc6ca1-0beb-4b42-a656-aecfaec3e862.jpeg)
+
